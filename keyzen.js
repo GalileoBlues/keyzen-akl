@@ -23,6 +23,7 @@ layouts["recurva"] = " sntcb.heaifrdpvqjuoyzxkgwml;',";
 layouts["pinev4"] = " nrstwpheaiqlcmk'fuoyjxzgvbd;,.";
 layouts["kuntum"] = " tsrhfgcaeivlndkjwou,zxpb'myq/.";
 layouts["kuntem"] = " tsrhfgcaievlndkjwouqzxpb'my.,/";
+layouts["sisu"] = " phlmdföoy,tsnkjcueaigbrv.xä'wz"
 // layouts[""] = " ";
 
 $(document).ready(function() {
